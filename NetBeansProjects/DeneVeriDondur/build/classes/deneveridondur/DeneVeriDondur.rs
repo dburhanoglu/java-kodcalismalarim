@@ -1,0 +1,2 @@
+deneveridondur.VeriDondur
+deneveridondur.DeneVeriDondur
